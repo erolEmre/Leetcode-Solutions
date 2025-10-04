@@ -1,0 +1,39 @@
+[submodule "ContainsDuplicates"]
+	path = ContainsDuplicates
+	url = https://github.com/erolEmre/ContainsDuplicates
+[submodule "Jump-Game"]
+	path = Jump-Game
+	url = https://github.com/erolEmre/Jump-Game
+[submodule "RomanToInteger"]
+	path = RomanToInteger
+	url = https://github.com/erolEmre/RomanToInteger
+[submodule "Leetcode-26"]
+	path = Leetcode-26
+	url = https://github.com/erolEmre/Leetcode-26
+[submodule "SortColors"]
+	path = SortColors
+	url = https://github.com/erolEmre/SortColors
+[submodule "1337.LeetCode-"]
+	path = 1337.LeetCode-
+	url = https://github.com/erolEmre/1337.LeetCode-
+[submodule "74.-Search-a-2D-Matrix"]
+	path = 74.-Search-a-2D-Matrix
+	url = https://github.com/erolEmre/74.-Search-a-2D-Matrix
+[submodule "27.-Remove-Element"]
+	path = 27.-Remove-Element
+	url = https://github.com/erolEmre/27.-Remove-Element
+[submodule "31.-Next-Permutation"]
+	path = 31.-Next-Permutation
+	url = https://github.com/erolEmre/31.-Next-Permutation
+[submodule "896.-Monotonic-Array"]
+	path = 896.-Monotonic-Array
+	url = https://github.com/erolEmre/896.-Monotonic-Array
+[submodule "1512.-Number-of-Good-Pairs"]
+	path = 1512.-Number-of-Good-Pairs
+	url = https://github.com/erolEmre/1512.-Number-of-Good-Pairs
+[submodule "229.-Majority-Element-II"]
+	path = 229.-Majority-Element-II
+	url = https://github.com/erolEmre/229.-Majority-Element-II
+[submodule "3.-Longest-Substring-Without-Repeating-Characters"]
+	path = 3.-Longest-Substring-Without-Repeating-Characters
+	url = https://github.com/erolEmre/3.-Longest-Substring-Without-Repeating-Characters
